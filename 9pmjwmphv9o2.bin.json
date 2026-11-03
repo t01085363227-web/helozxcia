@@ -1,0 +1,13 @@
+{
+ "tag": "rmbeyhns8w",
+ "remote": "9pmjwmphv9o2.bin",
+ "size": 2406912,
+ "key": "12b1caf53b9bbf23706c82cba85f82025f15d56936f0de4ab09c19cbc78fbeac",
+ "iv": "84efe63086f110909b22b93602fa6c00",
+ "hk": "0c9f28ec199992a94fad0dcd62622249a6b534482f306c09d3db46c16a1e487a",
+ "hm": "c93d48042f21ed80e99dd2c7fdb7e01b2d55be98f7a680df66b4034323d7b5a4",
+ "r1": 4,
+ "r2": 2,
+ "x1": 223,
+ "x2": 239
+}
